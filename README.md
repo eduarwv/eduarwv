@@ -23,15 +23,15 @@
 <!-- ===================== SOBRE MIM ===================== -->
 ## 01. Sobre Mim
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/mikechambers93/mikechambers93/main/img/coding.gif">
+<img align="right" width="300" src="https://raw.githubusercontent.com/mikechambers93/mikechambers93/main/img/coding.gif">
+
+<a href="https://github.com/eduarwv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=8AB4F8&center=false&vCenter=true&width=560&lines=Carregando+dados+do+perfil...;Nome%3A+Eduar+(%40eduarwv);Localiza%C3%A7%C3%A3o%3A+Brasil;Foco%3A+Java+%2F+Python+%2F+MySQL;Status%3A+dispon%C3%ADvel+para+novos+projetos" alt="Dados do perfil"/>
+</a>
+
+<br>
 
 ```yaml
-identidade:
-  nome: "Eduar"
-  usuario: "eduarwv"
-  localizacao: "Brasil"
-  ocupacao: "Desenvolvedor Java & Python"
-
 especialidades:
   - "Programação Orientada a Objetos (Java)"
   - "Automação e scripts (Python)"
@@ -41,11 +41,17 @@ especialidades:
 missao: >
   Desenvolver sistemas sólidos e eficientes, unindo a robustez
   do Java, a versatilidade do Python e a precisão do MySQL.
-
-status: "Disponível para novos projetos"
 ```
 
 <br clear="right">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/eduarwv&label=REPOSIT%C3%93RIOS&query=%24.public_repos&color=00F0FF&style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/eduarwv&label=SEGUIDORES&query=%24.followers&color=00F0FF&style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/EST%C3%81GIO-EM_EVOLU%C3%87%C3%83O_CONT%C3%8DNUA-FF2E63?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
 
 ---
 
@@ -73,21 +79,17 @@ status: "Disponível para novos projetos"
 <!-- ===================== OBJETIVOS ATUAIS (TERMINAL) ===================== -->
 ## 03. Objetivos Atuais
 
-```bash
-eduarwv@dev-core:~$ cat objetivos_2026.log
+<div align="center">
 
-[x] Consolidar fundamentos de POO em Java
-[x] Automatizar tarefas e analises com Python
-[x] Modelar bancos relacionais eficientes em MySQL
-[ ] Aprofundar em Spring Boot
-[ ] Construir APIs REST integradas com MySQL
-[ ] Desenvolver um projeto full-stack proprio
+<a href="https://github.com/eduarwv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&width=680&lines=%24+cat+objetivos_2026.log;%5Bx%5D+Consolidar+fundamentos+de+POO+em+Java;%5Bx%5D+Automatizar+tarefas+e+an%C3%A1lises+com+Python;%5Bx%5D+Modelar+bancos+relacionais+eficientes+em+MySQL;%5B+%5D+Aprofundar+em+Spring+Boot;%5B+%5D+Construir+APIs+REST+integradas+com+MySQL;%5B+%5D+Desenvolver+um+projeto+full-stack+pr%C3%B3prio;%24+echo+%24PROGRESSO;%3E%3E+74%25+conclu%C3%ADdo_" alt="Terminal de objetivos"/>
+</a>
 
-eduarwv@dev-core:~$ echo $PROGRESSO
->> 74% concluido
+<br><br>
 
-eduarwv@dev-core:~$ _
-```
+<img src="https://progress-bar.xyz/74/?title=PROGRESSO&width=400&color=00F0FF&suffix=%25&title_width=110"/>
+
+</div>
 
 ---
 
