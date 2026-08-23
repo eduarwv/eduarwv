@@ -1,148 +1,142 @@
-````markdown
-<!-- ============================================================
-     EDUARDO BARROS — GITHUB PROFILE
-     Username: eduarwv
-     Focus: Java • Python • MySQL • Software Development
-     ============================================================ -->
-
 <div align="center">
 
-<!-- HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=EDUARDO%20BARROS&fontSize=52&fontColor=00F5FF&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%7C%20PYTHON%20%7C%20MYSQL&descSize=16&descAlignY=58&descColor=FFFFFF&color=0:030712,45:071A2B,75:15104A,100:030712&animation=fadeIn"/>
+<!-- ===================== BANNER PRINCIPAL ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:0d1117&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=Initializing%20Profile%20of%20EDUARWV...&descAlignY=58&descSize=18&descColor=8ab4f8" width="100%"/>
 
-<br>
-
-<!-- TYPING -->
-<a href="https://github.com/eduarwv">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=%3E+SYSTEM+INITIALIZED...;%3E+WELCOME+TO+EDUARWV%27S+PROFILE;%3E+JAVA+%7C+PYTHON+%7C+MYSQL;%3E+SOFTWARE+DEVELOPMENT+%7C+DATA+SCIENCE;%3E+LEARN.+BUILD.+IMPROVE.;%3E+ACCESS+GRANTED."/>
-
+<!-- ===================== TYPING ANIMATION ===================== -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=700&height=60&lines=%3E+Booting+neural+interface...;%3E+Java+%2F+Python+%2F+MySQL+Developer;%3E+Compilando+l%C3%B3gica+em+tempo+real;%3E+Systems+Online.+Awaiting+Input_" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br/>
 
-<!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=eduarwv&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/eduarwv?label=FOLLOWERS&style=for-the-badge&color=111827&logo=github&logoColor=00F5FF"/>
-
-<img src="https://img.shields.io/github/stars/eduarwv?label=STARS&style=for-the-badge&color=111827&logo=github&logoColor=00F5FF"/>
+<!-- ===================== BADGES DE STATUS ===================== -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00f0ff?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/CORE-JAVA_%2B_PYTHON-0ff0aa?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DATABASE-MYSQL-ff2e63?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PROTOCOL-JARVIS--MODE-ffcc00?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
+<br/>
+
+<!-- ===================== SOBRE MIM ===================== -->
+## `<` 01_SOBRE_MIM `/>`
+
+<img align="right" width="340" src="https://raw.githubusercontent.com/mikechambers93/mikechambers93/main/img/coding.gif"/>
+
+```yaml
+identidade:
+  nome: "Eduar"
+  alias: "@eduarwv"
+  localizacao: "Brasil // Terra"
+  ocupacao: "Java & Python Developer"
+  idiomas: ["Português", "Inglês"]
+
+modulos_carregados:
+  - "Programação Orientada a Objetos (Java)"
+  - "Automação e Scripts (Python)"
+  - "Modelagem e Otimização de Banco de Dados (MySQL)"
+  - "Lógica de Sistemas e Estruturas de Dados"
+
+missao: >
+  Construir sistemas robustos e eficientes, unindo a solidez do Java,
+  a versatilidade do Python e a precisão do MySQL para transformar
+  dados em soluções reais.
+
+status_atual: "🟢 Compilando novos projetos..."
+```
+
+<br clear="right"/>
+
 ---
 
-<!-- ============================================================
-                         SYSTEM STATUS
-     ============================================================ -->
+<!-- ===================== TECH STACK ===================== -->
+## `<` 02_TECH_STACK `/>`
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                         DEVELOPER CORE                           ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  USER        : EDUARDO BARROS                                     ║
-║  HANDLE      : @eduarwv                                            ║
-║  ROLE        : SOFTWARE DEVELOPER                                 ║
-║                                                                    ║
-║  PRIMARY     : JAVA                                                ║
-║  SECONDARY   : PYTHON                                              ║
-║  DATABASE    : MYSQL / SQL                                         ║
-║                                                                    ║
-║  STUDIES     : SOFTWARE DEVELOPMENT • DATA SCIENCE                 ║
-║  INTERESTS   : SOFTWARE • DATA • TECHNOLOGY                       ║
-║                                                                    ║
-║  STATUS      : ● ONLINE                                            ║
-║  MODE        : BUILDING                                            ║
-║  VERSION     : 2026                                                ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-````
+### ⚙️ Linguagens Principais
+<img src="https://skillicons.dev/icons?i=java,python,mysql&theme=dark" />
+
+### 🧠 Complementares
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+
+### 🛠️ Ferramentas & Ambiente
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux&theme=dark" />
 
 </div>
 
 ---
 
-# `01 // ABOUT ME`
+<!-- ===================== OBJETIVOS ATUAIS (TERMINAL) ===================== -->
+## `<` 03_OBJETIVOS_ATUAIS `/>`
 
-<div align="center">
+```bash
+eduarwv@dev-core:~$ cat objetivos_2026.log
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1000&color=7B2CFF&center=true&vCenter=true&width=700&lines=SOFTWARE+DEVELOPMENT+STUDENT;JAVA+%2B+PYTHON+%2B+MYSQL;BUILDING+MY+FOUNDATION+IN+TECHNOLOGY"/>
+[✔] Consolidar fundamentos sólidos em Java (POO, Collections, Streams)
+[✔] Automatizar tarefas e análises com Python
+[✔] Modelar bancos relacionais eficientes em MySQL
+[ ] Aprofundar em frameworks Java (Spring Boot)
+[ ] Explorar APIs REST integradas com MySQL
+[ ] Construir projeto full-stack próprio do zero
 
-</div>
+eduarwv@dev-core:~$ echo $STATUS
+>> "Compilando conhecimento... 74% concluído."
 
-<br>
-
-Olá! Eu sou **Eduardo Barros**, estudante de **Desenvolvimento de Sistemas** e **Ciência de Dados**.
-
-Meu foco atual está no desenvolvimento de software utilizando principalmente **Java, Python e MySQL**, enquanto construo uma base sólida em lógica de programação, bancos de dados, arquitetura de software e desenvolvimento de aplicações.
-
-Gosto de aprender através da prática: estudar um conceito, transformar esse conhecimento em código e evoluir o projeto a cada nova experiência.
-
-### Atualmente estou desenvolvendo conhecimentos em:
-
-* ☕ **Java** — programação orientada a objetos e desenvolvimento
-* 🐍 **Python** — programação, lógica e aplicações
-* 🗄️ **MySQL / SQL** — bancos de dados e consultas
-* 🧠 **Lógica de Programação**
-* 🏗️ **Arquitetura de Software**
-* 📊 **Ciência de Dados**
-* 🔧 **Git / GitHub**
-* 💻 **Desenvolvimento de Sistemas**
-
-> **Objetivo:** construir uma carreira sólida em tecnologia, evoluindo constantemente através de projetos reais e aprendizado contínuo.
+eduarwv@dev-core:~$ _
+```
 
 ---
 
-# `02 // CORE TECHNOLOGIES`
+<!-- ===================== PROJETOS EM DESTAQUE ===================== -->
+## `<` 04_PROJETOS_EM_DESTAQUE `/>`
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%">
 
-### ☕ JAVA
+### ☕ Nome do Projeto 1
+> Descrição curta do projeto em Java (ex: sistema de gestão, API, app desktop).
 
-<img src="https://skillicons.dev/icons?i=java&theme=dark" width="70"/>
+`Java` `MySQL` `POO`
 
-**Primary Language**
-
-Development
-Object-Oriented Programming
-Algorithms
-Logic
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/eduarwv/projeto-1)
 
 </td>
+<td width="50%">
 
-<td align="center" width="33%">
+### 🐍 Nome do Projeto 2
+> Descrição curta do projeto em Python (ex: script de automação, análise de dados).
 
-### 🐍 PYTHON
+`Python` `MySQL` `Automação`
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="70"/>
-
-**Development**
-
-Programming
-Automation
-Data
-Problem Solving
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/eduarwv/projeto-2)
 
 </td>
+</tr>
+<tr>
+<td width="50%">
 
-<td align="center" width="33%">
+### 🗄️ Nome do Projeto 3
+> Descrição curta sobre modelagem/otimização de banco de dados.
 
-### 🗄️ MYSQL
+`MySQL` `SQL` `Database Design`
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="70"/>
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/eduarwv/projeto-3)
 
-**Database**
+</td>
+<td width="50%">
 
-SQL
-Data Modeling
-Queries
-Database Logic
+### ⚡ Nome do Projeto 4
+> Descrição curta sobre um projeto integrado (Java + Python + MySQL).
+
+`Java` `Python` `MySQL`
+
+[![Repo](https://img.shields.io/badge/VER_REPOSITÓRIO-00f0ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/eduarwv/projeto-4)
 
 </td>
 </tr>
@@ -152,282 +146,72 @@ Database Logic
 
 ---
 
-# `03 // DEVELOPMENT ENVIRONMENT`
+<!-- ===================== GITHUB STATS ===================== -->
+## `<` 05_TELEMETRIA_DO_SISTEMA `/>`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,vscode,eclipse,windows&theme=dark"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=eduarwv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarwv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9"/>
 
-<br><br>
+<br/>
 
-<img src="https://img.shields.io/badge/JAVA-CORE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eduarwv&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&ring=00f0ff&fire=ff2e63&currStreakLabel=00f0ff"/>
 
-<img src="https://img.shields.io/badge/PYTHON-CORE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GITHUB-PLATFORM-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduarwv&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ff2e63"/>
 
 </div>
 
 ---
 
-# `04 // WHAT I'M BUILDING`
+<!-- ===================== TROPHIES ===================== -->
+## `<` 06_CONQUISTAS `/>`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=eduarwv&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"/>
+</div>
+
+---
+
+<!-- ===================== SNAKE ANIMATION ===================== -->
+## `<` 07_CONTRIBUTION_MATRIX `/>`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/eduarwv/eduarwv/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚠️ Ative o workflow <code>snake.yml</code> no repositório <code>eduarwv/eduarwv</code> para gerar esta animação automaticamente (veja instruções ao final).</sub>
+</div>
+
+---
+
+<!-- ===================== REDES SOCIAIS ===================== -->
+## `<` 08_CANAIS_DE_COMUNICAÇÃO `/>`
 
 <div align="center">
 
-```text
-                  ┌─────────────────────┐
-                  │       IDEA          │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │       LOGIC         │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │        CODE         │
-                  │   Java / Python     │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │       DATA          │
-                  │       MySQL         │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │       PROJECT       │
-                  └─────────────────────┘
-```
+<a href="https://www.linkedin.com/in/eduarwv"><img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>
+<a href="https://twitter.com/eduarwv"><img src="https://img.shields.io/badge/Twitter-00f0ff?style=for-the-badge&logo=x&logoColor=0d1117"/></a>
+<a href="https://instagram.com/eduarwv"><img src="https://img.shields.io/badge/Instagram-00f0ff?style=for-the-badge&logo=instagram&logoColor=0d1117"/></a>
+<a href="mailto:seuemail@email.com"><img src="https://img.shields.io/badge/Email-00f0ff?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>
+<a href="https://discord.com/users/eduarwv"><img src="https://img.shields.io/badge/Discord-00f0ff?style=for-the-badge&logo=discord&logoColor=0d1117"/></a>
 
 </div>
 
 ---
 
-# `05 // FEATURED PROJECTS`
-
-> **Projetos abaixo devem ser substituídos pelos seus repositórios reais.**
-
+<!-- ===================== RODAPÉ ===================== -->
 <div align="center">
 
-<a href="https://github.com/eduarwv">
+### `SESSÃO ENCERRADA` — `AGUARDANDO PRÓXIMO PULL REQUEST...`
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduarwv&repo=SEU_PROJETO_JAVA&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img src="https://komarev.com/ghpvc/?username=eduarwv&style=for-the-badge&color=00f0ff&label=VISITANTES"/>
 
-</a>
+<br/><br/>
 
-<a href="https://github.com/eduarwv">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f0ff,100:0d1117&height=120&section=footer"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduarwv&repo=SEU_PROJETO_PYTHON&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/eduarwv">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduarwv&repo=SEU_PROJETO_MYSQL&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</a>
-
-<a href="https://github.com/eduarwv">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=eduarwv&repo=SEU_PROJETO_4&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</a>
+<sub>© 2026 Eduar (eduarwv) — Todos os sistemas operacionais.</sub>
 
 </div>
-
----
-
-# `06 // CURRENT ROADMAP`
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────────────╮
-│                     DEVELOPMENT ROADMAP                       │
-├────────────────────────────────────────────────────────────────┤
-│                                                                │
-│  [████████████████████]  JAVA                                  │
-│  [██████████████████░░]  PYTHON                                │
-│  [█████████████████░░░]  MYSQL / SQL                           │
-│  [██████████████░░░░░░]  SOFTWARE ARCHITECTURE                 │
-│  [█████████████░░░░░░░]  DATA SCIENCE                          │
-│  [████████████░░░░░░░░]  PROJECT PORTFOLIO                     │
-│                                                                │
-├────────────────────────────────────────────────────────────────┤
-│  CURRENT OBJECTIVE                                             │
-│  └─ Build • Practice • Document • Improve                       │
-│                                                                │
-╰────────────────────────────────────────────────────────────────╯
-```
-
-</div>
-
----
-
-# `07 // TERMINAL`
-
-```bash
-eduardo@dev:~$ whoami
-
-> Software Development Student
-> Java Developer in Training
-> Python Developer in Training
-> MySQL / SQL Developer in Training
-
-eduardo@dev:~$ cat goals.txt
-
-[01] Strengthen Java fundamentals
-[02] Improve Python development
-[03] Build stronger SQL knowledge
-[04] Develop real-world projects
-[05] Improve software architecture
-[06] Build a professional portfolio
-[07] Keep learning continuously
-
-eduardo@dev:~$ ./start-development.sh
-
-[OK] Environment loaded
-[OK] Knowledge initialized
-[OK] Git repository connected
-[OK] Development mode enabled
-
-> SYSTEM READY.
-```
-
----
-
-# `08 // GITHUB ANALYTICS`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=eduarwv&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&border_radius=12&custom_title=GitHub%20Overview"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarwv&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&border_radius=12&custom_title=Technology%20Distribution"/>
-
-</div>
-
----
-
-# `09 // CONTRIBUTION STREAK`
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=eduarwv&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</div>
-
----
-
-# `10 // ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eduarwv&bg_color=0D1117&color=00F5FF&line=7B2CFF&point=FFFFFF&area_color=111827&area=true&hide_border=true&radius=12"/>
-
-</div>
-
----
-
-# `11 // GITHUB TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=eduarwv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
-
-</div>
-
----
-
-# `12 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/eduarwv/eduarwv/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# `13 // DEVELOPMENT MINDSET`
-
-<div align="center">
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│             "EVERY BUG IS A LESSON."                         │
-│                                                               │
-│        LEARN  →  BUILD  →  TEST  →  DEBUG  →  IMPROVE        │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=CODE+IS+THE+TOOL.;LOGIC+IS+THE+FOUNDATION.;LEARNING+IS+THE+PROCESS.;BUILDING+IS+THE+GOAL."/>
-
-</div>
-
----
-
-# `14 // CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/eduarwv">
-<img src="https://img.shields.io/badge/GitHub-EDUARWV-050505?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="SEU_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-PROFILE-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `> SYSTEM STATUS`
-
-<img src="https://img.shields.io/badge/JAVA-ACTIVE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PYTHON-ACTIVE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MYSQL-ACTIVE-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GIT-ACTIVE-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=7B2CFF&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE;DEVELOPER+MODE+ACTIVE;THANKS+FOR+VISITING;SEE+YOU+IN+THE+NEXT+COMMIT."/>
-
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:030712,45:071A2B,75:15104A,100:030712"/>
-
-</div>
-
-<!-- ============================================================
-                         END OF PROFILE
-     ============================================================ -->
-
-```
-```
